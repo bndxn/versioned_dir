@@ -1,5 +1,5 @@
-The quick brown fox jumped over the super duper fat lazy dog. 
+This is the second file and it's not particularly important. 
 
-Also a wistful clock repair expert stroked his beard and gazed out across the lake, but it's the fox and the dog that tend to make the headlines. 
+The quick brown fox jumped over the fat lazy dog. 
 
 
